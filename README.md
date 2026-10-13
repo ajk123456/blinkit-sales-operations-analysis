@@ -40,7 +40,14 @@ This project focuses on analyzing Blinkit's sales performance, customer trends, 
 | File | Description |
 |---|---|
 | `Blinkit.pbix` | Interactive Power BI dashboard |
-| `Austin_miniproject_blinkit.pdf` | Supporting project documentation |
+| `Blinkit_Project_Screenshots_and_Details.pdf` | Supporting project documentation |
+
+## Screenshots
+
+<img width="1337" height="777" alt="Mini_proj1" src="https://github.com/user-attachments/assets/fc8ba1b8-f5a7-41ce-bdd5-11d876f5c54e" />
+<img width="1397" height="805" alt="mini_proj2" src="https://github.com/user-attachments/assets/e89e3d25-fa6e-44db-ab28-74b97f9024f6" />
+<img width="1347" height="755" alt="mini_proj3" src="https://github.com/user-attachments/assets/fb1ea05b-49c3-4ea1-814b-90d6cdd3cde4" />
+
 
 ## How to View the Dashboard
 
